@@ -21,7 +21,7 @@ $total_tampil = count($daftar_mahasiswa);
 // Ambil flash message dari session jika tersedia
 $flash = get_flash_message();
 
-$page_title = 'Beranda - Sistem Informasi Data Mahasiswa';
+$page_title = 'SIMA - Versi Produk Kampus';
 require_once __DIR__ . '/includes/header.php';
 ?>
 
